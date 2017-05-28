@@ -12,8 +12,8 @@ The goals / steps of this project are the following:
 
 [image1]: ./out/cnn.png "Model Visualization"
 [image2]: ./out/original.png "Original image"
-[image4]: ./out/shadow.png "Shadow added"
-[image5]: ./out/brightness.png "Brightness adjusted"
+[image3]: ./out/shadow.png "Shadow added"
+[image4]: ./out/brightness.png "Brightness adjusted"
 [image5]: ./out/shift.png "Shifted"
 [image6]: ./out/flip.png "Flipped"
 
